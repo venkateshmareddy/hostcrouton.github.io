@@ -1,0 +1,11 @@
+/* Common styles to be applied for all the components */
+*{
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
